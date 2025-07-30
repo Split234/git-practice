@@ -7,3 +7,5 @@ privet
 feature захватывает планету
 
 >>>>>>> feature
+это хотфикс. срочно прод.
+idi nahui
